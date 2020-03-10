@@ -1,14 +1,14 @@
 # datosdemiercoles
  ##  37	2020-03-03	Coronavirus 
- Actualizado 7 de marzo 
+ Actualizado 10 de marzo 
  
  La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/Coronavirus/coronavirus.R)
 
 #Datos en https://github.com/CSSEGISandData/COVID-19
 
-![Week3703032020](https://github.com/AnguloB/datosdemiercoles/blob/master/Coronavirus/confirmed_200207.gif)
+![Week3703032020](https://github.com/AnguloB/datosdemiercoles/blob/master/Coronavirus/confirmed_200310.gif)
 
- ![Week3703032020](https://github.com/AnguloB/datosdemiercoles/blob/master/Coronavirus/deaths_200207.gif)
+ ![Week3703032020](https://github.com/AnguloB/datosdemiercoles/blob/master/Coronavirus/deaths_200310.gif)
 
 
  
