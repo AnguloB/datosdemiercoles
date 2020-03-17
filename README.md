@@ -1,4 +1,15 @@
 # datosdemiercoles
+ ##  Semana 41	2020-03-17	H1N1
+ 
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/41_H1N1/H1N1.R)
+Los datos originales han sido adaptados por Kaggle a partir de los datos de la OMS.
+
+A continuación se encuentra el resultado final. Más gráficos en la carpeta 41_N1H1
+![graph3](https://github.com/AnguloB/datosdemiercoles/blob/master/41_H1N1/Paises_ESP_mapa.png)
+
+
+
  ##  Semana 37, 39 y 40	2020-03-03	Coronavirus 
  Actualizado 17 de marzo 
  
