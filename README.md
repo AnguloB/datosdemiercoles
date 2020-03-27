@@ -3,7 +3,6 @@
  Datos de [The World Bank](https://tcdata360.worldbank.org/indicators/h3f86901f?country=BRA&indicator=32416&viz=line_chart&years=2001,2019) por #datosdemieRcoles.  [Reporteros sin Fronteras](https://www.rsf-es.org/). 
 
  La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/42_Libertad/0_Libertad.R)
-Los datos originales han sido adaptados por Kaggle a partir de los datos de la OMS.
 
 ![graph3](https://github.com/AnguloB/datosdemiercoles/blob/master/42_Libertad/Libertad_1.gif)
 
