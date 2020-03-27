@@ -75,7 +75,7 @@ plot1<-ggplot()+
   geom_polygon(data=dataMap, aes(x = long, y = lat, group = group, fill=ranking))+
   geom_image(data=datImages, aes( x=longi, y =lati,image=images), size=0.05)+ #Añado imagen
   labs(title = "Evolución de la libertad de prensa",
-       caption= "Done by  @AnguloBrunet",fill= " Ranking \n Libertad de Prensa \n 1 = Top, 180 = Bot")+
+       caption= "Hecho por @AnguloBrunet",fill= " Ranking \n Libertad de Prensa \n 1 = Top, 180 = Bot")+
   scale_fill_gradient2(low="#009E73", mid="#F0E442", high = "#D55E00", midpoint=90 )+
   theme(#Background
     plot.background = element_rect(fill = color1, color=NA),
@@ -105,7 +105,7 @@ plot1<-ggplot()+
   anim<-plot1+  transition_manual(factor(anio))+
     enter_fade() +
     exit_fade()+
-    labs(subtitle = 'Day: {current_frame}')#+
+    labs(subtitle = 'Año: {current_frame}')#+
   
   
 animate(anim, fps= 4,height = 1748/4, width =2480/4, nframes = 16)
