@@ -1,15 +1,16 @@
 # Casos Nuevo Coronavirus
 # Datos de https://github.com/CSSEGISandData/COVID-19
-# Actualizado el 17 de marzo de 2020 
+# Actualizado el 13 de Abril de 2020 
 
 color1 <-"#414141" #color de los paises
 color2<-"gray51"  #color de fondo
 
 library(tidyverse)
 
-confirmed<-read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv")
+#confirmed<-read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv")
+confirmed<-read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv")
 
-deaths<- read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19//master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Deaths.csv")
+deaths<- read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19//master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv")
 
 #recovered <- read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19//master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Recovered.csv")
 
@@ -71,7 +72,7 @@ library(gganimate)
    labs(subtitle = "Day: {closest_state}" ) #titulo
 animate(animation1, height = 1748/2, width =2480/2, #defino las medidas del output
         nframes = 2 * length(unique(conf$day)))  #permito mas frames dos por dia.
-anim_save("confirmed_200317.gif")
+anim_save("confirmed_200413.gif")
 
 
 
@@ -103,4 +104,4 @@ animation2<-ggplot()+
   transition_states(deat$day) +
   labs(subtitle = "Day: {closest_state}" )
 animate(animation2, height = 1748/2, width =2480/2,  nframes = 2 * length(unique(deat$day)))
-anim_save("deaths_200317.gif")
+anim_save("deaths_200413.gif")
