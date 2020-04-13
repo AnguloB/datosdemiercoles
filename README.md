@@ -19,15 +19,15 @@ A continuación se encuentra el resultado final. Más gráficos en la carpeta 41
 
 
  ##  Semana 37, 39 y 40	2020-03-03	Coronavirus 
- Actualizado 17 de marzo 
+ Actualizado 13 de abril
  
  La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/37_3940_Coronavirus/coronavirus.R)
 
 #Datos en https://github.com/CSSEGISandData/COVID-19
 
-![Week3703032020](https://github.com/AnguloB/datosdemiercoles/blob/master/37_3940_Coronavirus/confirmed_200317.gif)
+![Week3703032020](https://github.com/AnguloB/datosdemiercoles/blob/master/37_3940_Coronavirus/confirmed_200413.gif)
 
- ![Week3703032020](https://github.com/AnguloB/datosdemiercoles/blob/master/37_3940_Coronavirus/deaths_200317.gif)
+ ![Week3703032020](https://github.com/AnguloB/datosdemiercoles/blob/master/37_3940_Coronavirus/deaths_200413.gif)
 
 
  
