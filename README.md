@@ -1,4 +1,12 @@
 # datosdemiercoles
+ ##  Semana 43	2020-03-27	Libertad de prensa
+ Datos de [The World Bank](https://tcdata360.worldbank.org/indicators/h3f86901f?country=BRA&indicator=32416&viz=line_chart&years=2001,2019) por #datosdemieRcoles.  [Reporteros sin Fronteras](https://www.rsf-es.org/). 
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/42_Libertad/0_Libertad.R)
+
+![graph3](https://github.com/AnguloB/datosdemiercoles/blob/master/42_Libertad/Libertad_1.gif)
+
+
  ##  Semana 41	2020-03-17	H1N1
  
 
