@@ -5,12 +5,13 @@ library(tidyverse)
 # De 2	2019-04-17	Juego de Tronos,	varias	Tiempo en pantalla personajes
 
 backcolor<-"white"
-
+colortext<-"black"
   
 tiempo_pantalla <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-04-17/tiempo_pantalla.csv")
 
 cambio_lealtades <- readr::read_csv("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-04-17/cambio_lealtades.csv")
 
+datos<- left_join(tiempo_pantalla, cambio_lealtades, by="nombre")
 #Defino paleta de colores
 palette30<-c("#FFA45E",  "#262253", "#EC4176", "#543884", "#A13770", "9B77CF")
 
@@ -22,7 +23,7 @@ font<- "Trebuchet MS" #Fuente que voy a utlizar
 #Creo un conjunto de datos con la misma longitud que "Tiempo pantalla" para saber el origen
 
 imagenes <-c("imagenes/01.png", "imagenes/02.png", "imagenes/03.png", NA,  "imagenes/05.png",NA,
-             "imagenes/07.png" ,NA, "imagenes/09.png", NA,
+             "imagenes/07.png" ,NA, "imagenes/09.png", "imagenes/10.png",
              "imagenes/11.png", "imagenes/12.png", NA)
 #crear una paleta con N valores del color al color que le asigno
 palette <- colorRampPalette(c("#9B77CF" ,"#262253"))
