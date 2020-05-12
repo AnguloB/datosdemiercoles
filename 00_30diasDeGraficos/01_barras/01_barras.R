@@ -66,5 +66,5 @@ datos%>%
        caption = "Hecho por @AnguloBrunet \n #30díasdegráficos")
 
 
-ggsave("01_barras.png")
+ggsave("01_barras.png", height = 5.89, width=8.58)
   
