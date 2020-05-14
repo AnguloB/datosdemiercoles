@@ -30,6 +30,8 @@ vinos<-vinos%>%
   provincia == "Spanish Islands" ~ "Islas", 
   TRUE ~ .$provincia))
 
+vinos$provinciaRE<- factor(vinos$provinciaRE, levels=c("Andalucía", "Cataluña", 
+                                                       "Centro", "Galicia", "Levante", "Norte", "Otro", "Islas"))
 vinos%>%
   ggplot(aes(x= puntos, y = precio_e, color=provinciaRE))+ geom_jitter(alpha=0.5)+
   theme_bw()+
