@@ -15,3 +15,4 @@ row1<-plot_grid(day1, day2, nrow=1)
 row2<-plot_grid(NULL, day3, NULL, nrow=1, rel_widths = c(0.25, 0.5, 0.25))
 plot_grid(row1, row2, nrow = 2)
 ggsave("summary.png")
+

@@ -52,8 +52,9 @@ vinos%>%
         legend.position = "bottom")+
   scale_color_manual(name="Zona",values = palette30) +
 labs(title= "Día 3: puntos/burbujas", 
-     subtitle = "Vinos españoles: puntuación y precio de una botella",  x="", 
+     subtitle = "Vinos españoles: puntuación y precio de una botella", 
      y = "€", 
+     x = "Puntuación 0-100", 
      caption = "Hecho por @AnguloBrunet \n #30díasdegráficos \n Fuente #datosdemiércoles https://www.kaggle.com/zynicide/wine-reviews/")
      
 
