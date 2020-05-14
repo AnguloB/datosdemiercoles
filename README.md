@@ -1,4 +1,12 @@
 # datosdemiercoles
+
+##  [30 días de gráficos](https://github.com/cienciadedatos/datos-de-miercoles/blob/master/30-dias-de-graficos-2020.md)
+
+ 
+ La sintaxis puede encontrarse en cada una de las carpetas para los días [aqui](https://github.com/AnguloB/datosdemiercoles/tree/master/00_30diasDeGraficos).
+A continuación un resumen de los gráficos
+![summary](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/summary.png)
+
  ##  Semana 43	2020-03-27	Libertad de prensa
  Datos de [The World Bank](https://tcdata360.worldbank.org/indicators/h3f86901f?country=BRA&indicator=32416&viz=line_chart&years=2001,2019) por #datosdemieRcoles.  [Reporteros sin Fronteras](https://www.rsf-es.org/). 
 
