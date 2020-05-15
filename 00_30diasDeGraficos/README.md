@@ -2,6 +2,13 @@
 
 
 
+![DAY4](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/04_facetas/04_facetas.png)
+
+Datos de [datosdemirecoles](https://github.com/cienciadedatos/datos-de-miercoles)
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/03_puntos/03_puntos.png)
+
+
 ![DAY3](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/03_puntos/03_puntos.png)
 
 Datos de [datosdemirecoles](https://github.com/cienciadedatos/datos-de-miercoles)
