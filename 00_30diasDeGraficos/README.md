@@ -1,6 +1,20 @@
 
 
 
+![DAY6](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/06_donut/06_donut.png)
+
+Datos de [datosdemirecoles](https://github.com/cienciadedatos/datos-de-miercoles)
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/06_donut/06_donuts.png)
+
+
+
+![DAY5](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/05_arco/05_arco.png)
+
+Datos de [datosdemirecoles](https://github.com/cienciadedatos/datos-de-miercoles)
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/05_arco/05_arco.png)
+
 
 ![DAY4](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/04_facetas/04_facetas.png)
 
