@@ -1,6 +1,6 @@
 library(tidyverse)
 
-# dia 6 donut
+# dia 7 ridgeline
 #Datos "https://www.meteo.cat/
 backcolor<-"white"
 colortext<-"black"
