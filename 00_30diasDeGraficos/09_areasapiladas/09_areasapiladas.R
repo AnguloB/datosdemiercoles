@@ -98,7 +98,7 @@ p1<-ggplot(datos,
           axis.text.x = element_text(angle = 90, hjust = 1, color=colortext),
           axis.text.y = element_text(color=colortext), 
           legend.position = "bottom")+ 
-    labs(title= "Día 9: àreas apiladas", 
+    labs(title= "Día 9: áreas apiladas", 
          subtitle = "Población de Manresa \nsegún rango de Edad y Nacionalidad", x="", y="Porcentaje(%)")
   
   #############Grafico 2
@@ -148,7 +148,7 @@ datosn<-rbind(d2012n, d2013n, d2014n, d2015n, d2016n, d2017n, d2018n, d2019n)
 datosn$UNSD<-as.character(datosn$UNSD)
 
 #abro un libro de codigos con correspondencia entre codigos y continentes
-
+library(readxl)
 paises <- read_excel("paises.xlsx")
 
 datosn_<-datosn%>%
