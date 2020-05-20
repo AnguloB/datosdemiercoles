@@ -18,10 +18,14 @@ day6<-ggdraw() +
   draw_image("06_donut/06_donut.png") 
 day7<-ggdraw() + 
   draw_image("07_ridgeline/07_ridgeline.png") 
+day8<-ggdraw() + 
+  draw_image("08_contorno/08_contorno.png") 
+day9<-ggdraw() + 
+  draw_image("09_areasapiladas/09_areasapiladas.png") 
 
 
-row1<-plot_grid(day1, day2, day3, day4,  nrow=1)
-row2<-plot_grid( day5, day6,day7, nrow=1)
+row1<-plot_grid(day1, day2, day3, day4,day5,  nrow=1)
+row2<-plot_grid( day6, day7,day8, day9, nrow=1)
 
 
 plot_grid(row1, row2, nrow=2)
