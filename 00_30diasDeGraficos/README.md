@@ -1,12 +1,18 @@
 
 
 
+![DAY10](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/10_colores/10_colores.png)
+
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/10_colores/10_colores.png)
+ 
+
 
 ![DAY9](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/09_areasapiladas/09_areasapiladas.png)
 
 Datos de [Ajuntament de Manresa](http://opendata.manresa.cat)
 
- La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/08_contorno/09_areasapiladas/09_areasapiladas.png)
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos//09_areasapiladas/09_areasapiladas.png)
  
 
 ![DAY8](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/08_contorno/08_contorno.png)
