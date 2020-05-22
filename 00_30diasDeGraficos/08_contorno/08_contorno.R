@@ -42,7 +42,7 @@ vinos%>%
         axis.text.y = element_text(color=colortext), 
         legend.position = "top")+
   scale_color_manual(name="Zona",values = palette30) +
-labs(title= "Día 7: contorno", 
+labs(title= "Día 8: contorno", 
      subtitle = "Vinos españoles: puntuación y precio de una botella", 
      y = "€", 
      x = "Puntuación 0-100", 
