@@ -24,12 +24,16 @@ day9<-ggdraw() +
   draw_image("09_areasapiladas/09_areasapiladas.png") 
 day10<-ggdraw() + 
   draw_image("10_colores/10_colores.png") 
+day11<-ggdraw() + 
+  draw_image("11_heatmap/11_heatmap.png") 
+
+day12<-ggdraw() + 
+  draw_image("12_lollipop/12_lollipop.png") 
+row1<-plot_grid(day1, day2, day3, day4, nrow=1)
+row2<-plot_grid( day5, day6, day7,day8,nrow=1)
+row3<- plot_grid(day9, day10, day11,day12, nrow=1)
 
 
-row1<-plot_grid(day1, day2, day3, day4,day5,  nrow=1)
-row2<-plot_grid( day6, day7,day8, day9, day10, nrow=1)
-
-
-plot_grid(row1, row2, nrow=2)
+plot_grid(row1, row2, row3, nrow=3)
 ggsave("summary.png")
 

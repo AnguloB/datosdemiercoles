@@ -1,6 +1,11 @@
 
 
 
+![DAY12](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/12_lollipop/12_lollipop.png)
+
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/12_lollipop/12_lollipop.png)
+ 
 
 ![DAY11](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/11_heatmap/11_heatmap.png)
 
