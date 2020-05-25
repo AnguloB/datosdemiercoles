@@ -1,6 +1,18 @@
 
 
 
+
+![DAY14](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/14_tree/14_tree.png)
+
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/14_tree/14_tree.png)
+
+
+![DAY12](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/13_temporal/13_temporal.png)
+
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/12_lollipop/12_lollipop.png)
+
 ![DAY12](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/12_lollipop/12_lollipop.png)
 
 
