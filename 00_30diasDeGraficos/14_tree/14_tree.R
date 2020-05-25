@@ -64,7 +64,7 @@ resumen<-datos%>%
           axis.text.y = element_text(color=colortext), 
           legend.position = "bottom")+ 
     labs(title= "Día 14: treemap", 
-         subtitle = "Inventario de vias de escalada en Montserrat",  x="", 
+         subtitle = "Inventario de vías de escalada en Montserrat",  x="", 
          y = "", fill="Puntuación\nde felicidad",
          caption = "Hecho por @AnguloBrunet \n #30díasdegráficos \n Fuente :http://muntanyamontserrat.gencat.cat")
 
