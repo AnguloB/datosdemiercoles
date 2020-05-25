@@ -29,9 +29,16 @@ day11<-ggdraw() +
 
 day12<-ggdraw() + 
   draw_image("12_lollipop/12_lollipop.png") 
-row1<-plot_grid(day1, day2, day3, day4, nrow=1)
-row2<-plot_grid( day5, day6, day7,day8,nrow=1)
-row3<- plot_grid(day9, day10, day11,day12, nrow=1)
+
+day13<-ggdraw() + 
+  draw_image("13_temporal/13_temporal.png") 
+
+day14<-ggdraw() + 
+  draw_image("14_tree/14_tree.png") 
+
+row1<-plot_grid(day1, day2, day3, day4,day5, nrow=1)
+row2<-plot_grid(  day6, day7,day8, day9, day10,nrow=1)
+row3<- plot_grid(day11,day12, day13, day14, nrow=1)
 
 
 plot_grid(row1, row2, row3, nrow=3)
