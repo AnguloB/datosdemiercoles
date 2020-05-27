@@ -1,9 +1,3 @@
-
-
-library(tidyverse)
-
-# dia 2: lineas
-#Datos del SIDC Cat (link  directo en el script )
 backcolor<-"white"
 colortext<-"black"
 
