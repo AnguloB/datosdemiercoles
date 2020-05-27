@@ -2,6 +2,17 @@
 
 
 
+![DAY16](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/16_waffle/16_waffle.png)
+
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/16_waffle/16_waffle.png)
+
+![DAY15](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/15_dendograma/15_dendograma.png)
+
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/15_dendograma/15_dendograma.png)
+
+
 ![DAY14](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/14_tree/14_tree.png)
 
 
