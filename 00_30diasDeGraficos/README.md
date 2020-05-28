@@ -1,6 +1,11 @@
 
 
 
+![DAY17](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/17_sankey/17_sankey.png)
+
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/117_sankey/17_sankey.png)
+
 
 ![DAY16](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/16_waffle/16_waffle.png)
 
