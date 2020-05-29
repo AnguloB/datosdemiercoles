@@ -36,12 +36,16 @@ day15<-ggdraw() +
   draw_image("15_dendograma/15_dendograma.png") 
 day16<-ggdraw() + 
   draw_image("16_waffle/16_waffle.png") 
+day17<-ggdraw() + 
+  draw_image("17_sankey/17_sankey.png") 
+day18<-ggdraw() + 
+  draw_image("18_espacial/18_espacial.png") 
+
 
 row1<-plot_grid(day1, day2, day3, day4,day5,day6, nrow=1)
-row2<-plot_grid( day7,day8, day9, day10,day11,nrow=1)
-row3<- plot_grid(day12,day13, day14, day15, day16, nrow=1)
+row2<-plot_grid( day7,day8, day9, day10,day11, day12,nrow=1)
+row3<- plot_grid(day13, day14, day15, day16,day17, day18,nrow=1)
 
 
 plot_grid(row1, row2, row3, nrow=3)
 ggsave("summary.png")
-
