@@ -42,14 +42,21 @@ day18<-ggdraw() +
   draw_image("18_espacial/18_espacial.png") 
 day19<-ggdraw() + 
   draw_image("19_stream/19_stream.png") 
-#day20<-ggdraw() + 
-#  draw_image("20_redes/20_redes.png") 
+day20<-ggdraw() + 
+  draw_image("20_redes/20_redes.png") 
+#day21<-ggdraw() + 
+#  draw_image("21_anotaciones/21_anotaciones.png") 
+#day22<-ggdraw() + 
+#  draw_image("22_texto/22_texto.png") 
+#day23<-ggdraw() + 
+#  draw_image("23_sunburst/23_sunburst.png") 
+
 
 
 row1<-plot_grid(day1, day2, day3, day4, day5, nrow=1)
 row2<-plot_grid(day6,  day7,  day8 , day9 , day10, day12,nrow=1)
 row3<- plot_grid(day11 ,day12 ,day13, day14, day15,nrow=1)
-row4<- plot_grid( day16, day17 ,day18, day19,nrow=1)
+row4<- plot_grid( day16, day17 ,day18, day19, day20,nrow=1)
 
 
 plot_grid(row1, row2, row3, row4, nrow=4)
