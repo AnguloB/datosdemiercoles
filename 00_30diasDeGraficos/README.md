@@ -1,10 +1,33 @@
 
 
+![DAY22](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/22_texto/22_texto.png)
 
-![DAY18](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/17_espacial/17_espacial.png)
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/22_texto/22_texto.png)
 
 
- La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/17_espacial/17_espacial.png)
+![DAY21](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/21_anotaciones/21_anotaciones.png)
+
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/21_anotaciones/21_anotaciones.png)
+
+
+![DAY20](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/20_redes/20_redes.png)
+
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/20_redes/20_redes.png)
+
+
+![DAY19](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/19_stream/19_stream.png)
+
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/19_stream/19_stream.png)
+
+
+![DAY18](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/18_espacial/18_espacial.png)
+
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/18_espacial/18_espacial.png)
 
 ![DAY17](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/17_sankey/17_sankey.png)
 
