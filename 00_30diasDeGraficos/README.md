@@ -1,4 +1,14 @@
 
+![DAY25](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/25_violin/25_violin.png)
+
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/25_violin/25_violin.png)
+
+![DAY24](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/24_coropletas/24_coropletas.png)
+
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/24_coropletas/24_coropletas.png)
+
 
 ![DAY23](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/23_sunburst/23_sunburst.png)
 
