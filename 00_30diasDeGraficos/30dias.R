@@ -53,6 +53,9 @@ day24<-ggdraw() +
 day25<-ggdraw() + 
   draw_image("25_violin/25_violin.png") 
 
+day26<-ggdraw() + 
+  draw_image("26_marimekko/26_marimekko.png") 
+
 
 
 row1<-plot_grid(day1, day2, day3, day4, day5, nrow=1)
@@ -60,7 +63,9 @@ row2<-plot_grid(  day6,  day7 , day8 , day9, day10,nrow=1)
 row3<- plot_grid(day11 ,day12 ,day13, day14, day15, nrow=1)
 row4<- plot_grid( day16, day17 ,day18, day19, day20, nrow=1)
 row5<- plot_grid( day21, day22, day23, day24, day25, nrow=1)
+row6<- plot_grid( day26, nrow=1)
 
 
-plot_grid(row1, row2, row3, row4,row5, nrow=5)
+
+plot_grid(row1, row2, row3, row4,row5,row6, nrow=6)
 ggsave("summary.png")

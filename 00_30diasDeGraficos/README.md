@@ -1,5 +1,11 @@
 
-![DAY25](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/25_violin/25_violin.png)
+
+![DAY26](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/26_marimekko/26_marimekko.png)
+
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/26_marimekko/26_marimekko.png)
+
+![DAY26](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/25_violin/25_violin.png)
 
 
  La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/25_violin/25_violin.png)
