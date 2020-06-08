@@ -1,3 +1,8 @@
+![DAY27](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/28_cuerdas/28_cuerdas.png)
+
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/28_cuerdas/28_cuerdas.png)
+
 ![DAY27](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/27_animado/27_animado.png)
 
 
