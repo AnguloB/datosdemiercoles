@@ -63,6 +63,10 @@ day28<-ggdraw() +
   draw_image("28_cuerdas/28_cuerdas.png") 
 
 
+day29<-ggdraw() + 
+  draw_image("29_paralelas/29_paralelas.png") 
+
+
 
 
 row1<-plot_grid(day1, day2, day3, day4, day5, nrow=1)
