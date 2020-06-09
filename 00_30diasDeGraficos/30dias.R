@@ -74,7 +74,7 @@ row2<-plot_grid(  day6,  day7 , day8 , day9, day10,nrow=1)
 row3<- plot_grid(day11 ,day12 ,day13, day14, day15, nrow=1)
 row4<- plot_grid( day16, day17 ,day18, day19, day20, nrow=1)
 row5<- plot_grid( day21, day22, day23, day24, day25, nrow=1)
-row6<- plot_grid( day26, day27, day28,nrow=1)
+row6<- plot_grid( day26, day27, day28, day29,nrow=1)
 
 
 
