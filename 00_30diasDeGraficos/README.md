@@ -1,4 +1,15 @@
-![DAY27](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/28_cuerdas/28_cuerdas.png)
+![DAY30](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/30_nightingale/30_nightingale.png)
+
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/30_nightingale/30_nightingale.png)
+
+
+![DAY29](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/29_paralelas/29_paralelas.png)
+
+
+ La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/29_paralelas/29_paralelas.png)
+
+![DAY28](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/28_cuerdas/28_cuerdas.png)
 
 
  La sintaxis puede encontrarse [aqui](https://github.com/AnguloB/datosdemiercoles/blob/master/00_30diasDeGraficos/28_cuerdas/28_cuerdas.png)
